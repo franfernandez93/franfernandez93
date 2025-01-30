@@ -5,29 +5,42 @@
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
+<br>
 
 # 💻 Data Analyst | Data Scientist | Big Data Enthusiast  
+
+<br>
 
 ## 🎓 Máster en Big Data, Machine Learning e Inteligencia Artificial  
 📊 **Habilidades técnicas:** Python, SQL, Scala, R Studio, Power BI, Google Cloud  
 🚀 **Enfoque:** Optimización de procesos y toma de decisiones basadas en datos  
 
+<br>
+
 ## 🏢 Experiencia en Datos & Tecnología  
 - 🔍 **Inspector de Calidad** en empresa de Energías Renovables → Análisis de datos para garantizar estándares de producción  
 - 🖥️ **Experiencia en Sistemas Informáticos** → Gestión de bases de datos, redes y sistemas operativos  
+
+<br>
 
 ## 🎓 Formación Académica  
 - 📚 Grado en **Sistemas Informáticos**  
 - 📈 Grado en **Marketing Internacional** → Estrategias de ventas y análisis de mercado  
 
+<br>
+
 ## 🛠️ Certificaciones y Especializaciones  
 - Ensayos No Destructivos y Análisis de Materiales  
 - Análisis de procesos industriales con datos  
+
+<br>
 
 ## ⚡ Sobre mí  
 🌱 Apasionado por los datos, la inteligencia artificial y la automatización  
 📊 Siempre en busca de soluciones innovadoras basadas en datos  
 💡 Rápida adaptación a nuevas tecnologías y metodologías  
+
+<br>
 
 ## 📫 Contacto  
 ✉️ [franclementefernandez@gmail.com](mailto:franclementefernandez@gmail.com)  
