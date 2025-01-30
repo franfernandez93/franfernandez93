@@ -1,7 +1,5 @@
-<h1 align="center">Hola 👋  soy Francisco Clemente Fernández / Franfernandez93 ✨ </h1> 
+<h1 align="center">Hola 👋, soy Francisco Clemente Fernández / Franfernandez93 ✨</h1>
 
-
-  </p>
 <br>
 
 ## ⚡ Sobre mí  
@@ -19,7 +17,8 @@ Siempre estoy abierto a **nuevos desafíos** y a conectar con personas apasionad
 
 ## 📫 Contacto  
 ✉️ [franclementefernandez@gmail.com](mailto:franclementefernandez@gmail.com)  
-<br>
+
+---
 
 # 💻 Data Analyst | Data Scientist | Big Data Enthusiast  
 
@@ -47,32 +46,31 @@ Siempre estoy abierto a **nuevos desafíos** y a conectar con personas apasionad
 - Ensayos No Destructivos y Análisis de Materiales  
 - Análisis de procesos industriales con datos  
 
+---
 
- 
-
-<!--Intro end-->
-  </p>
-<br>
-
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
+## 👨🏻‍💻 Tecnologías conocidas  
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,matlab,mysql,ps,postgres,py,pytorch,sklearn,vscode,gcp,&perline=12" />
   </a>
 </p>
 
-<h2>Connect with me ☕ :</h2>
+---
 
-<br>
+## ☕ Connect with me  
+<a href="https://www.linkedin.com/in/francisco-clemente-fern%C3%A1ndez-424a76317/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
+</a>
+<a href="tel:+34727797333">
+  <img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="Phone">
+</a>
+<a href="mailto:franfernandez93@gmail.com">
+  <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email">
+</a>
 
-<a href="https://www.linkedin.com/in/francisco-clemente-fern%C3%A1ndez-424a76317/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"></a>
-<a href="tel:+34727797333"><img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="Phone"></a>
-<a href="mailto:franfernandez93@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email"></a>
+---
 
-<br>
-
-<h2 >GitHub Stats 📈 :</h2>
+## 📈 GitHub Stats  
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=franfernandez93&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
@@ -80,4 +78,5 @@ Siempre estoy abierto a **nuevos desafíos** y a conectar con personas apasionad
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franfernandez93&theme=algolia)](https://github.com/franfernandez93/github-readme-stats)  
 
 <br>
+
 
