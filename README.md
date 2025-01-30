@@ -2,11 +2,6 @@
 
 
   </p>
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
-<br>
-
 # 💻 Data Analyst | Data Scientist | Big Data Enthusiast  
 
 <br>
@@ -36,14 +31,21 @@
 <br>
 
 ## ⚡ Sobre mí  
-🌱 Apasionado por los datos, la inteligencia artificial y la automatización  
-📊 Siempre en busca de soluciones innovadoras basadas en datos  
-💡 Rápida adaptación a nuevas tecnologías y metodologías  
+Soy un apasionado de la **tecnología, los datos y la inteligencia artificial**. Desde mis inicios en el mundo de los sistemas informáticos hasta mi inmersión en **Big Data y Machine Learning**, siempre he buscado **optimizar procesos y resolver problemas con datos**.  
+
+Mi capacidad de **adaptación y aprendizaje continuo** me ha permitido evolucionar en diferentes sectores, desde informática y aeronáutica hasta energías renovables y ciencia de datos.  
+
+Lo que más me motiva es **convertir los datos en conocimiento útil**, utilizando herramientas avanzadas para mejorar la **eficiencia, precisión y toma de decisiones**.  
+
+Siempre estoy abierto a **nuevos desafíos** y a conectar con personas apasionadas por la tecnología y el análisis de datos.  
+
+📊 **"Los datos no mienten, pero hay que saber escucharlos".**  
 
 <br>
 
 ## 📫 Contacto  
 ✉️ [franclementefernandez@gmail.com](mailto:franclementefernandez@gmail.com)  
+ 
 
 <!--Intro end-->
   </p>
