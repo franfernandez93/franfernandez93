@@ -6,30 +6,32 @@
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
-<p align="left">
-💻 Data Analyst | Data Scientist | Big Data Enthusiast
-🎓 Máster en Big Data, Machine Learning e Inteligencia Artificial.
-📊 Habilidades técnicas: Python, SQL, Scala, R Studio, Power BI, Google Cloud.
-🚀 Enfoque: Optimización de procesos y toma de decisiones basadas en datos.
+# 💻 Data Analyst | Data Scientist | Big Data Enthusiast  
 
-🏢 Experiencia en Datos & Tecnología:
+## 🎓 Máster en Big Data, Machine Learning e Inteligencia Artificial  
+📊 **Habilidades técnicas:** Python, SQL, Scala, R Studio, Power BI, Google Cloud  
+🚀 **Enfoque:** Optimización de procesos y toma de decisiones basadas en datos  
 
-🔍 Inspector de Calidad en empresa de Energías Renovables → Análisis de datos para garantizar estándares de producción.
-🖥️ Experiencia en Sistemas Informáticos → Gestión de bases de datos, redes y sistemas operativos.
-🎓 Formación Académica:
+## 🏢 Experiencia en Datos & Tecnología  
+- 🔍 **Inspector de Calidad** en empresa de Energías Renovables → Análisis de datos para garantizar estándares de producción  
+- 🖥️ **Experiencia en Sistemas Informáticos** → Gestión de bases de datos, redes y sistemas operativos  
 
-📚 Grado en Sistemas Informáticos.
-📈 Grado en Marketing Internacional → Estrategias de ventas y análisis de mercado.
-🛠️ Certificaciones y Especializaciones:
+## 🎓 Formación Académica  
+- 📚 Grado en **Sistemas Informáticos**  
+- 📈 Grado en **Marketing Internacional** → Estrategias de ventas y análisis de mercado  
 
-Ensayos No Destructivos y Análisis de Materiales.
-Análisis de procesos industriales con datos.
-⚡ Sobre mí:
-🌱 Apasionado por los datos, la inteligencia artificial y la automatización.
-📊 Siempre en busca de soluciones innovadoras basadas en datos.
-💡 Rápida adaptación a nuevas tecnologías y metodologías.
+## 🛠️ Certificaciones y Especializaciones  
+- Ensayos No Destructivos y Análisis de Materiales  
+- Análisis de procesos industriales con datos  
 
-📫 Contacto: franclementefernandez@gmail.com**
+## ⚡ Sobre mí  
+🌱 Apasionado por los datos, la inteligencia artificial y la automatización  
+📊 Siempre en busca de soluciones innovadoras basadas en datos  
+💡 Rápida adaptación a nuevas tecnologías y metodologías  
+
+## 📫 Contacto  
+✉️ [franclementefernandez@gmail.com](mailto:franclementefernandez@gmail.com)  
+
 <!--Intro end-->
   </p>
 <br>
