@@ -41,11 +41,7 @@ Bienvenido a mi perfil de GitHub, estaré encantado de conectar con apasionados/
   </a>
 </p>
 
-
-
 <h2 >Connect with me ☕ :</h2>
-
-<br>
 
 <br>
 
