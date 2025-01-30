@@ -7,28 +7,29 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Data Analyst/ Data Scientist
+💻 Data Analyst | Data Scientist | Big Data Enthusiast
+🎓 Máster en Big Data, Machine Learning e Inteligencia Artificial.
+📊 Habilidades técnicas: Python, SQL, Scala, R Studio, Power BI, Google Cloud.
+🚀 Enfoque: Optimización de procesos y toma de decisiones basadas en datos.
 
-¡Hola! Mi nombre es Francisco  ,soy un apasionado de la tecnología, la calidad y el análisis de datos, con una experiencia diversa que abarca desde sistemas informáticos hasta energías renovables y Big Data. 🚀
+🏢 Experiencia en Datos & Tecnología:
 
-Mi recorrido comenzó con un Grado en Sistemas Informáticos, donde aprendí a gestionar bases de datos, redes y sistemas operativos. 🖥️🔧 Durante mis primeras experiencias laborales, estuve en una tienda de informática, reparando equipos de hardware y software, ¡me encantaba darles nueva vida a los ordenadores! 💻🔨
+🔍 Inspector de Calidad en empresa de Energías Renovables → Análisis de datos para garantizar estándares de producción.
+🖥️ Experiencia en Sistemas Informáticos → Gestión de bases de datos, redes y sistemas operativos.
+🎓 Formación Académica:
 
-Después, di un giro a mi carrera y me uní a la industria aeronáutica, trabajando con planos y piezas que debían encajar con una precisión milimétrica. ✈️🔩 Esta experiencia me enseñó a trabajar bajo presión y a ser extremadamente detallista, cualidades que hoy aplico en todo lo que hago.
+📚 Grado en Sistemas Informáticos.
+📈 Grado en Marketing Internacional → Estrategias de ventas y análisis de mercado.
+🛠️ Certificaciones y Especializaciones:
 
-Decidí seguir formándome y cursé un Grado en Marketing Internacional, donde aprendí sobre estrategias de ventas, análisis DAFO y gestioné la publicidad de una pequeña marca de ropa. 👕📊 Esta etapa me ayudó a comprender cómo conectar con los mercados y entender lo que realmente impulsa el éxito de una marca.
+Ensayos No Destructivos y Análisis de Materiales.
+Análisis de procesos industriales con datos.
+⚡ Sobre mí:
+🌱 Apasionado por los datos, la inteligencia artificial y la automatización.
+📊 Siempre en busca de soluciones innovadoras basadas en datos.
+💡 Rápida adaptación a nuevas tecnologías y metodologías.
 
-Actualmente, soy Inspector de Calidad en una empresa de energía renovable, donde mi principal tarea es asegurar que la producción cumpla con los estándares de calidad más altos. 🌱⚡ Trabajo con planos detallados y realizo análisis exhaustivos para identificar posibles defectos en el proceso. ¡Es un trabajo que requiere mucho foco y precisión! 🔍💼
-
-Además, durante estos últimos años he ido ampliando mi perfil profesional con certificaciones en ensayos no destructivos, lo que me ha permitido especializarme en el análisis de materiales y procesos sin dañarlos. 🛠️🔬
-
-Pero eso no es todo… ¡la tecnología nunca para! Este año, comencé un Máster de Big Data, Machine Learning e Inteligencia Artificial, donde estoy aprendiendo a usar herramientas como Python, SQL, Scala, R Studio, Power BI y Google Cloud ☁️📊, entre otras. Con estas nuevas habilidades, me enfoco en optimizar procesos y tomar decisiones basadas en datos, para generar valor real en los proyectos. 📈🤖
-
-Lo que más me motiva es resolver problemas y mejorar procesos con soluciones innovadoras. Soy una persona que se adapta rápidamente a los cambios y siempre busca aprender y crecer. 🌱
-
-Bienvenido a mi perfil de GitHub, estaré encantado de conectar con apasionados/as de este mundo del dato como yo👥💬.
-
-
-📫 Contacto: **franclementefernandez@gmail.com**
+📫 Contacto: franclementefernandez@gmail.com**
 <!--Intro end-->
   </p>
 <br>
