@@ -41,21 +41,16 @@ Bienvenido a mi perfil de GitHub, estaré encantado de conectar con apasionados/
   </a>
 </p>
 
-<h2 >Connect with me ☕ :</h2>
+<h2>Connect with me ☕ :</h2>
 
 <br>
 
-<a href="https://www.linkedin.com/in/francisco-clemente-fern%C3%A1ndez-424a76317/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
-</a>
-<a href="tel:+34727797333">
-    <img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="Phone">
-</a>
-<a href="mailto:franfernandez93@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email">
-</a>
+<a href="https://www.linkedin.com/in/francisco-clemente-fern%C3%A1ndez-424a76317/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"></a>
+<a href="tel:+34727797333"><img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="Phone"></a>
+<a href="mailto:franfernandez93@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email"></a>
 
 <br>
+
 <h2 >GitHub Stats 📈 :</h2>
 <br>
 
