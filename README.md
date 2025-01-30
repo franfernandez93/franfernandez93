@@ -57,16 +57,21 @@ Siempre estoy abierto a **nuevos desafíos** y a conectar con personas apasionad
 
 ---
 
-## ☕ Connect with me  
-<a href="https://www.linkedin.com/in/francisco-clemente-fern%C3%A1ndez-424a76317/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
+<h2>Contacta conmigo ☕ :</h2>
+
+<br>
+
+<a href="https://www.linkedin.com/in/francisco-clemente-fern%C3%A1ndez-424a76317/" target="_blank" style="display: inline-block;">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
 </a>
-<a href="tel:+34727797333">
-  <img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="Phone">
+<a href="tel:+34727797333" style="display: inline-block;">
+    <img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="Phone">
 </a>
-<a href="mailto:franfernandez93@gmail.com">
-  <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email">
+<a href="mailto:franfernandez93@gmail.com" style="display: inline-block;">
+    <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email">
 </a>
+
+<br>
 
 ---
 
