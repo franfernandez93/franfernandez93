@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋  soy Francisco Clemente Fernández / Franfernandez93 ✨ </h1> 
 
-<p align="left">
-<a href="https://www.linkedin.com/in/francisco-clemente-fern%C3%A1ndez-424a76317/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="franfernandez93"/></a>
-<a href = "mailto:franclementefernandez@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@fanfernandez93"  /></a>
+
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
@@ -42,6 +40,17 @@ Bienvenido a mi perfil de GitHub, estaré encantado de conectar con apasionados/
     <img src="https://skillicons.dev/icons?i=git,github,matlab,mysql,ps,postgres,py,pytorch,sklearn,vscode,gcp,&perline=12" />
   </a>
 </p>
+
+
+
+<h2 >Connect with me ☕ :</h2>
+
+<br>
+
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/francisco-clemente-fern%C3%A1ndez-424a76317/)  
+[![Phone](https://img.icons8.com/fluency/48/000000/phone-disconnected.png)](tel:+34727797333)  
+[![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:franfernandez93@gmail.com)  
+
 <br>
 <h2 >GitHub Stats 📈 :</h2>
 <br>
