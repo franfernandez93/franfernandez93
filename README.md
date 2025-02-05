@@ -11,7 +11,7 @@ Mi capacidad de **adaptación y aprendizaje continuo** me ha permitido evolucion
 
 Lo que más me motiva es **convertir los datos en conocimiento útil**, utilizando herramientas avanzadas para mejorar la **eficiencia, precisión y toma de decisiones**.  
 
-Siempre estoy abierto a **nuevos desafíos** y a conectar con personas apasionadas por la tecnología y el análisis de datos.  
+Siempre estoy abierto a **nuevos desafíos** y  a conectar con personas apasionadas por la tecnología y el análisis de datos.  
 
 📊 **"Los datos no mienten, pero hay que saber escucharlos".**  
 
