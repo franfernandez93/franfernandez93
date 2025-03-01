@@ -13,7 +13,7 @@ Lo que más me motiva es **convertir los datos en conocimiento útil**, utilizan
 
 Siempre estoy abierto a **nuevos desafíos** y  a conectar con personas apasionadas por la tecnología y el análisis de datos.  
 
-📊 **"Los datos no mienten, pero hay que saber escucharlos".**  
+![Bienvenido a mi perfil](https://github.com/franfernandez93/Project_06_Generador_Imagenes_OpenChat_Replicate/blob/main/yooo.png?raw=true)
 
 <br>
 
